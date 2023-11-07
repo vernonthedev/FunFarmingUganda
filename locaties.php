@@ -331,8 +331,10 @@
 </div>            </div>
         </div>
 
-<div class="o-component-area  u-slant-top u-mb-neg-slant-height">
 
+
+<div class="o-component-area  u-slant-top u-mb-neg-slant-height">
+ <h1 align="center" style="padding-top: 5px; margin-top: 30px; font-weight: bold;" class="o-personal__title">Fun Farming Team</h1>
             <div class="l-contain  u-spacing-mtb12" data-kal="slide-down-fade">
 
     <div class="o-personal  u-spacing-pb10">
@@ -351,6 +353,8 @@
                 <path d="M71.8.5V35a1.8 1.8 0 001 1.6l7.3 3.6 7.5-3.6a1.8 1.8 0 001-1.6V.5M71.8 28.7l8 4.4M71.8 21.6l8 4.4M71.8 14.6l8 4.4M71.8 7.5l8 4.4M88.6 28.7l-8 4.4M88.6 21.6l-8 4.4M88.6 14.6l-8 4.4M88.6 7.5l-8 4.4" fill="none" stroke="#52777f" stroke-linecap="round" stroke-linejoin="round" id="tree-1"/>
             </svg>
         </div>
+
+
 
         <div class="o-personal__main">
 

@@ -223,7 +223,7 @@
             <h2>Koe-mmuniceren, koe-nnecteren en koe-coonen</h2>
 <p>D&aacute;t zijn de drie sleutelwoorden bij FarmFun. Met de Farm Games en Farm Expert Games krijgen kuddes koe-llega&rsquo;s of vrienden een leuke mix van denken en doen voorgeschoteld om de teamgeest te versterken. Een koe-mpetieveling of rustig van aard. Een jong veulen of een oude rot in &rsquo;t vak. Elk van onze spellen is gemaakt met het idee dat i&eacute;dereen nog lang naloeit over dit teamevent.</p>
 
-                            <a class="c-button  c-button--big    "  href="activiteiten.html"   >
+                            <a class="c-button  c-button--big    "  href="activiteiten.php"   >
             <span class="c-button__text">Versterk kuddegevoel</span>
         </a>
 
@@ -356,7 +356,7 @@
     </div>
 
             <div class="o-other-posters__button">
-            <a class="c-button     "  href="activiteiten.html"   >
+            <a class="c-button     "  href="activiteiten.php"   >
             <span class="c-button__text">Bekijk ons volledige aanbod</span>
         </a>        </div>
 

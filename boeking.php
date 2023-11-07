@@ -38,7 +38,7 @@
             <div class="o-process__cart-grid">
 
                 <div class="o-process__intro">
-                    <a class="c-text-button  c-text-button--is-reversed  u-spacing-mb3  "  href="activiteiten.html"   >
+                    <a class="c-text-button  c-text-button--is-reversed  u-spacing-mb3  "  href="activiteiten.php"   >
             <span class="c-text-button__text">Meer activiteiten boeken</span>
                 <i class="c-text-button__icon">
             <svg width="7" height="10">

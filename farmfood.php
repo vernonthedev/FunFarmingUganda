@@ -222,7 +222,7 @@
 <li>Veggie, halal, glutenvrij,... op aanvraag mogelijk</li>
 </ul>
 
-        <a class="c-button  c-button--small    "  href="activiteiten.html"   >
+        <a class="c-button  c-button--small    "  href="activiteiten.php"   >
             <span class="c-button__text">Boek eerst je activiteit</span>
         </a>    </div>
 </div>

@@ -24,7 +24,7 @@
                                     <div
                                         class="c-video__iframe  js-youtube-player"
                                         loading="lazy"
-                                        data-youtube-link="04UjZNOQpSI"
+                                        data-youtube-link="#"
                                         data-auto-play="1"
                                         data-disable-kb="1"
                                         data-controls="0"
@@ -46,7 +46,7 @@
                                 <br>
                                 Also in the Wet Season
                             </h1>
-                            <a class="c-button     " href="activiteiten.html">
+                            <a class="c-button     " href="activiteiten.php">
                                 <span class="c-button__text">View Activities</span>
                             </a>
                             <div class="o-hero__rating">
@@ -194,7 +194,7 @@
     "Who is Cow-rupted" is a fun and interactive program set in a farm-themed environment, offering various games and opportunities to connect with each other. It's perfect for an enjoyable evening or after-work program!
 </p>
 
-                                <a class="c-button  c-button--big    " href="activiteiten/winterprogramma-wie-is-koe-rupt.html">
+                                <a class="c-button  c-button--big    " href="#">
                                     <span class="c-button__text">We're going to mole!</span>
                                     <i class="c-button__icon">
                                         <svg width="7" height="10">
@@ -385,7 +385,7 @@
                 <div class="u-spacing-mb2">
                     <p>Choose your ideal activity, add catering, check availability, instantly generate your quote, or book online. We'll get the exact number of participants later.</p>
                 </div>
-                <a class="c-button u-spacing-mb8" href="activiteiten.html">
+                <a class="c-button u-spacing-mb8" href="activiteiten.php">
                     <span class="c-button__text">Plan easily and quickly</span>
                 </a>
             </div>
@@ -669,7 +669,7 @@
                     <div class="o-component-area__component l-contain ">
                         <div class="o-button-component o-button-component--align-center">
                             <h2 class="u-spacing-mb2">Take the bull by the horns!</h2>
-                            <a class="c-button   u-spacing-mb8  " href="activiteiten.html">
+                            <a class="c-button   u-spacing-mb8  " href="activiteiten.php">
                                 <span class="c-button__text">To all activities</span>
                             </a>
                         </div>

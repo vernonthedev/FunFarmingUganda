@@ -109,7 +109,7 @@
                         <h4 class="o-footer__label">Fun Farming</h4>
                         <ul class="o-footer__list">
                             <li class="o-footer__item ">
-                                <a class="o-footer__link" href="activiteiten.html">
+                                <a class="o-footer__link" href="activiteiten.php">
                                     Activities
                                 </a>
                             </li>
@@ -148,7 +148,7 @@
                         <p class="o-subfooter__copyright">
                             &copy; FunFarming 2023
                         </p>
-                        <ul class="o-subfooter__list">
+                        <!-- <ul class="o-subfooter__list">
                             <li class="o-subfooter__item ">
                                 <a class="o-subfooter__link" href="algemene-voorwaarden.html">
                                     Terms and Conditions
@@ -167,7 +167,7 @@
                             <li class="o-subfooter__item">
                                 <a class="o-subfooter__link" href="sitemap.html">Sitemap</a>
                             </li>
-                        </ul>
+                        </ul> -->
                         <div class="o-subfooter__trademark">
                             <a
                                 class="c-trademark"
@@ -176,12 +176,12 @@
                                 aria-label="Met liefde ontwikkeld door Komma"
                             >
                                 <span class="c-trademark__text">
-                                    <span>FunFarming</span>
+                                    <span>Fun Farming Uganda</span>
                                     <span class="c-trademark__love" title="liefde"></span>
-                                    <span>developed_by</span>
+                                    <span>Developed by</span>
                                 </span>
                                 <span class="c-trademark__icon">
-                                    <img src="img/vernonthedev.png" width="10%"/>
+                                    <img src="img/vernonthedev.png" width="3%"/>
                                 </span>
                             </a>
                         </div>
