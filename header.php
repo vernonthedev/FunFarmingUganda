@@ -68,7 +68,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="locaties.html">
+                                <a class="c-nav__link" href="locaties.php">
                                     Locations
                                 </a>
                             </li>
@@ -153,7 +153,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="locaties.html" tabindex="-1">
+                                <a class="c-nav__link" href="locaties.php" tabindex="-1">
                                     Locations
                                 </a>
                             </li>
@@ -278,7 +278,7 @@
                 </ul>
                 <ul class="o-overlay-menu__sublist">
                     <li class="o-overlay-menu__subitem ">
-                        <a class="o-overlay-menu__sublink" href="locaties.html">
+                        <a class="o-overlay-menu__sublink" href="locaties.php">
                             Locations
                         </a>
                     </li>
