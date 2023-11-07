@@ -31,11 +31,6 @@
                             </a>
                         </li>
                         <li class="c-sub-header__nav-item  ">
-                            <a class="c-sub-header__link" href="farmfun-for-kids.html">
-                                FarmFun4Kids
-                            </a>
-                        </li>
-                        <li class="c-sub-header__nav-item  ">
                             <a class="c-sub-header__link" href="inspiratiegids.html">
                                 Inspiration Guide
                             </a>
@@ -83,7 +78,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item  c-nav__item--cart">
-                                <a class="c-cart-button  " href="boeking.html" data-item="0">
+                                <a class="c-cart-button  " href="boeking.php" data-item="0">
                                     <i class="c-cart-button__icon">
                                         <span class="c-cart-button__icon-placeholder">
                                             <span class="c-cart-button__speed-icons">
@@ -101,7 +96,7 @@
                     </nav>
                 </div>
                 <li class="c-nav__item  c-nav__item--cart c-nav__item--cart-mobile">
-                    <a class="c-cart-button  " href="boeking.html" data-item="0">
+                    <a class="c-cart-button  " href="boeking.php" data-item="0">
                         <i class="c-cart-button__icon">
                             <span class="c-cart-button__icon-placeholder">
                                 <span class="c-cart-button__speed-icons">
@@ -168,7 +163,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item  c-nav__item--cart">
-                                <a class="c-cart-button  " href="boeking.html" data-item="0">
+                                <a class="c-cart-button  " href="boeking.php" data-item="0">
                                     <i class="c-cart-button__icon">
                                         <span class="c-cart-button__icon-placeholder">
                                             <span class="c-cart-button__speed-icons">
@@ -186,7 +181,7 @@
                     </nav>
                 </div>
                 <li class="c-nav__item  c-nav__item--cart c-nav__item--cart-mobile">
-                    <a class="c-cart-button  " href="boeking.html" data-item="0">
+                    <a class="c-cart-button  " href="boeking.php" data-item="0">
                         <i class="c-cart-button__icon">
                             <span class="c-cart-button__icon-placeholder">
                                 <span class="c-cart-button__speed-icons">
@@ -235,7 +230,7 @@
             </div>
             <nav class="o-overlay-menu__nav" role="navigation">
                 <div class="o-overlay-menu__cart">
-                    <a class="c-cart-button   c-cart-button--animate" href="boeking.html" data-item="0">
+                    <a class="c-cart-button   c-cart-button--animate" href="boeking.php" data-item="0">
                         <i class="c-cart-button__icon">
                             <span class="c-cart-button__icon-placeholder">
                                 <span class="c-cart-button__speed-icons">
@@ -289,7 +284,7 @@
                     </li>
                     <li class="o-overlay-menu__subitem ">
                         <a class="o-overlay-menu__sublink" href="over-ons.html">
-                            Over ons
+                            About Us
                         </a>
                     </li>
                     <li class="o-overlay-menu__subitem ">
@@ -300,11 +295,6 @@
                     <li class="o-overlay-menu__subitem ">
                         <a class="o-overlay-menu__sublink" href="nieuws.html">
                             News
-                        </a>
-                    </li>
-                    <li class="o-overlay-menu__subitem ">
-                        <a class="o-overlay-menu__sublink" href="farmfun-for-kids.html">
-                            farmfun-for-kids
                         </a>
                     </li>
                     <li class="o-overlay-menu__subitem ">
