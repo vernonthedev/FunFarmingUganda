@@ -25,16 +25,6 @@
                                 Frequently Asked Questions
                             </a>
                         </li>
-                        <li class="c-sub-header__nav-item  ">
-                            <a class="c-sub-header__link" href="nieuws.html">
-                                News
-                            </a>
-                        </li>
-                        <li class="c-sub-header__nav-item  ">
-                            <a class="c-sub-header__link" href="inspiratiegids.html">
-                                Inspiration Guide
-                            </a>
-                        </li>
                     </ul>
                 </nav>
             </div>
@@ -275,11 +265,6 @@
                     <li class="o-overlay-menu__subitem ">
                         <a class="o-overlay-menu__sublink" href="locaties.php">
                             Locations
-                        </a>
-                    </li>
-                    <li class="o-overlay-menu__subitem ">
-                        <a class="o-overlay-menu__sublink" href="inspiratiegids.html">
-                            Inspiration Guide
                         </a>
                     </li>
                     <li class="o-overlay-menu__subitem ">
