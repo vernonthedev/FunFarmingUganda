@@ -78,7 +78,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="contact.html">
+                                <a class="c-nav__link" href="contact.php">
                                     Contact
                                 </a>
                             </li>
@@ -163,7 +163,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="contact.html" tabindex="-1">
+                                <a class="c-nav__link" href="contact.php" tabindex="-1">
                                     Contact
                                 </a>
                             </li>
@@ -271,7 +271,7 @@
                         </a>
                     </li>
                     <li class="o-overlay-menu__item ">
-                        <a class="o-overlay-menu__link" href="contact.html">
+                        <a class="o-overlay-menu__link" href="contact.php">
                             Contact
                         </a>
                     </li>
