@@ -58,12 +58,12 @@
                     <nav class="c-nav" role="navigation">
                         <ul class="c-nav__list">
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="activiteiten.html">
+                                <a class="c-nav__link" href="activiteiten.php">
                                     Activities
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="farmfood.html">
+                                <a class="c-nav__link" href="farmfood.php">
                                     FarmFood
                                 </a>
                             </li>
@@ -143,12 +143,12 @@
                     <nav class="c-nav" role="navigation">
                         <ul class="c-nav__list">
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="activiteiten.html" tabindex="-1">
+                                <a class="c-nav__link" href="activiteiten.php" tabindex="-1">
                                     Activities
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="farmfood.html" tabindex="-1">
+                                <a class="c-nav__link" href="farmfood.php" tabindex="-1">
                                     FarmFood
                                 </a>
                             </li>
@@ -256,12 +256,12 @@
                         </a>
                     </li>
                     <li class="o-overlay-menu__item ">
-                        <a class="o-overlay-menu__link" href="activiteiten.html">
+                        <a class="o-overlay-menu__link" href="activiteiten.php">
                             Activities
                         </a>
                     </li>
                     <li class="o-overlay-menu__item ">
-                        <a class="o-overlay-menu__link" href="farmfood.html">
+                        <a class="o-overlay-menu__link" href="farmfood.php">
                             FarmFood
                         </a>
                     </li>

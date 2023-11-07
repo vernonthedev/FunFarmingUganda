@@ -48,7 +48,7 @@
                                     class="o-footer__icon"
                                     target="_blank"
                                     title="Linkedin"
-                                    href="https://www.linkedin.com/company/farmfun/"
+                                    href="#"
                                 >
                                     <svg width="22" height="22">
                                         <use href="img/social/linkedin.svg#linkedin"></use>
@@ -60,7 +60,7 @@
                                     class="o-footer__icon"
                                     target="_blank"
                                     title="Facebook"
-                                    href="https://www.facebook.com/farmfun.be"
+                                    href="#"
                                 >
                                     <svg width="22" height="22">
                                         <use href="img/social/facebook.svg#facebook"></use>
@@ -72,7 +72,7 @@
                                     class="o-footer__icon"
                                     target="_blank"
                                     title="Instagram"
-                                    href="https://www.instagram.com/farmfun.be/"
+                                    href="#"
                                 >
                                     <svg width="22" height="22">
                                         <use href="img/social/instagram.svg#instagram"></use>
@@ -84,7 +84,7 @@
                                     class="o-footer__icon"
                                     target="_blank"
                                     title="Youtube"
-                                    href="https://www.youtube.com/channel/UC7rBauDM3-QRoYMED-4v7MQ"
+                                    href="#"
                                 >
                                     <svg width="22" height="22">
                                         <use href="img/social/youtube.svg#youtube"></use>
@@ -96,7 +96,7 @@
                                     class="o-footer__icon"
                                     target="_blank"
                                     title="Tiktok"
-                                    href="https://www.tiktok.com/@farmfun_teambuilding?lang=nl-NL"
+                                    href="#"
                                 >
                                     <svg width="22" height="22">
                                         <use href="img/social/tiktok.svg#tiktok"></use>
