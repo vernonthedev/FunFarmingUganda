@@ -73,7 +73,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="referenties.html">
+                                <a class="c-nav__link" href="referenties.php">
                                     References
                                 </a>
                             </li>
@@ -158,7 +158,7 @@
                                 </a>
                             </li>
                             <li class="c-nav__item ">
-                                <a class="c-nav__link" href="referenties.html" tabindex="-1">
+                                <a class="c-nav__link" href="referenties.php" tabindex="-1">
                                     References
                                 </a>
                             </li>
@@ -266,7 +266,7 @@
                         </a>
                     </li>
                     <li class="o-overlay-menu__item ">
-                        <a class="o-overlay-menu__link" href="referenties.html">
+                        <a class="o-overlay-menu__link" href="referenties.php">
                             References
                         </a>
                     </li>
