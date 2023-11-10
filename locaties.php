@@ -301,33 +301,34 @@
                         <use href="img/usp/marker.svg#marker"></use>
                     </svg>
                 </i>
-                <p class="o-usp-row__label">Beleef fun<br> <strong>altijd dichtbij</strong></p>
-            </li>
-                    <li class="o-usp-row__item">
-                <i class="o-usp-row__icon">
-                    <svg width="56" height="56">
-                        <use href="img/usp/calendar.svg#calendar"></use>
-                    </svg>
-                </i>
-                <p class="o-usp-row__label">Stel zelf je <strong>ideale<br> event</strong> samen</p>
-            </li>
-                    <li class="o-usp-row__item">
-                <i class="o-usp-row__icon">
-                    <svg width="56" height="56">
-                        <use href="img/usp/trees.svg#trees"></use>
-                    </svg>
-                </i>
-                <p class="o-usp-row__label">Minimale<br> <strong>milieu</strong> impact</p>
-            </li>
-                    <li class="o-usp-row__item">
-                <i class="o-usp-row__icon">
-                    <svg width="56" height="56">
-                        <use href="img/usp/people.svg#people"></use>
-                    </svg>
-                </i>
-                <p class="o-usp-row__label">Voor denkers en doeners,<br> <strong>jong en minder jong</strong></p>
-            </li>
-            </ul>
+                <p class="o-usp-row__label">A Place to call <strong>Home<br> in the woods</strong></p>
+                <li class="o-usp-row__item">
+    <i class="o-usp-row__icon">
+        <svg width="56" height="56">
+            <use href="img/usp/calendar.svg#calendar"></use>
+        </svg>
+    </i>
+    <p class="o-usp-row__label">Create your own <strong>ideal<br> event</strong></p>
+</li>
+
+<li class="o-usp-row__item">
+    <i class="o-usp-row__icon">
+        <svg width="56" height="56">
+            <use href="img/usp/trees.svg#trees"></use>
+        </svg>
+    </i>
+    <p class="o-usp-row__label">Minimal<br> <strong>environmental</strong> impact</p>
+</li>
+
+<li class="o-usp-row__item">
+    <i class="o-usp-row__icon">
+        <svg width="56" height="56">
+            <use href="img/usp/people.svg#people"></use>
+        </svg>
+    </i>
+    <p class="o-usp-row__label">For thinkers and doers,<br> <strong>young and not so young</strong></p>
+</li>
+
 </div>            </div>
         </div>
 

@@ -30,7 +30,8 @@
                                         data-controls="0"
                                         data-loop="1"
                                         id="home-hero-video"
-                                    ></div>
+                                    >
+                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -50,7 +51,7 @@
                                 <span class="c-button__text">View Activities</span>
                             </a>
                             <div class="o-hero__rating">
-                                <a class="c-rating  c-rating--boxed" target="_blank" href="https://www.kiyoh.com/location-group/farmfun_be">
+                                <a class="c-rating  c-rating--boxed" target="_blank" href="#">
                                     <div class="c-rating__stars">
                                         <span class="c-star  c-star--full">
                                             <svg
@@ -186,6 +187,7 @@
                                 </div>
                             </div>
                             <div class="o-vt__content  s-text">
+
                                 <h2>Discover "Who is Cow-rupted?"</h2>
 <p>
     Have a great time with this fun activity and find out who might be playing tricks in your team.
@@ -193,6 +195,7 @@
     <br>
     "Who is Cow-rupted" is a fun and interactive program set in a farm-themed environment, offering various games and opportunities to connect with each other. It's perfect for an enjoyable evening or after-work program!
 </p>
+
 
                                 <a class="c-button  c-button--big    " href="#">
                                     <span class="c-button__text">We're going to mole!</span>
