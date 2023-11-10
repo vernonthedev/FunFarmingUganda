@@ -77,7 +77,7 @@
         </div>
 
         <h2 class="o-streamer__text">
-            Hongerige maag na de activiteiten? Proef van onze boergondische FarmFood!
+        Hungry stomach after activities? Taste our Locally Made FarmFood!
         </h2>
     </div>
 
@@ -110,8 +110,10 @@
 
         </div>
         <div class="o-vt__content  s-text">
-            <h2>BOER-gondische FarmFood</h2>
-<p>Maak je dag compleet met een lichte lunch of uitgebreide maaltijd van onze huiscateraar. Want van knotsgekke activiteiten in de boerenbuitenlucht krijg je gegarandeerd honger.&nbsp;<br /><br />Je kan jouw favoriete FarmFood bestellen nadat je een activiteit hebt gekozen.</p>
+            <h2>Our FarmFood</h2>
+<p>
+Complete your day with a light lunch or extensive meal from our in-house caterer. Because crazy activities in the country air are guaranteed to make you hungry.&nbsp;<br /><br />
+You can order your favorite FarmFood after you have chosen an activity.</p>
 <p>&nbsp;</p>
 
                     </div>
@@ -212,18 +214,23 @@
     <div class="l-double__right  s-text s-ol-list   "  data-kal="slide-up">
 
         <h2>BBQ + bakker</h2>
-        <p><a href="veelgestelde-vragen.html"><strong>Ik heb een vraag &gt;</strong></a></p>
-<p>De ideale afsluiter van je teambuilding? Een lekkere BBQ. Je geniet van een heerlijk buffet van een tiental gerechten &ndash; zoals groenten, pasta&rsquo;s, aardappelsla, brood en sauzen &ndash; en kiest uit een achttal soorten vlees die onze BBQ-specialist voor je bakt.&nbsp;</p>
-<p>Het enige wat je hoeft te doen, is je voeten onder tafel plaatsen en je af en toe naar onze bakker en het buffet begeven voor een verse portie. Smakelijk!&nbsp;<strong>Je kan online een barbecue voor je team reserveren nadat je een activiteit hebt toegevoegd aan je planning.</strong></p>
-<p><strong>Barbecue met bakker: <br /></strong><strong>&euro;28.5 p.p. + &euro;200 opstart (incl. btw)<br /></strong><strong>&euro;31.5 pp in Merchtem + &euro;200 opstart (incl. btw)<br /></strong></p>
+        <p><a href="contact.php"><strong>I have a question &gt;</strong></a></p>
+
+<p>The ideal conclusion to your team-building? A delicious BBQ. You'll enjoy a delightful buffet with around ten dishes – including vegetables, pastas, potato salad, bread, and sauces – and choose from eight types of meat that our BBQ specialist will grill for you.</p>
+
+<p>All you have to do is sit back, occasionally visit our baker and the buffet for a fresh serving. Enjoy! <strong>You can reserve a barbecue for your team online after adding an activity to your schedule.</strong></p>
+
+<p><strong>Barbecue with baker: <br /></strong><strong>&euro;28.5 per person + &euro;200 startup (VAT included)<br /></strong><strong>&euro;31.5 per person in Merchtem + &euro;200 startup (VAT included)<br /></strong></p>
+
 <ul>
-<li>Alles wordt voor je klaar gemaakt</li>
-<li>Geschikt voor grote eters</li>
-<li>Veggie, halal, glutenvrij,... op aanvraag mogelijk</li>
+    <li>Everything is prepared for you</li>
+    <li>Suitable for hearty eaters</li>
+    <li>Veggie, halal, gluten-free,... available upon request</li>
 </ul>
 
+
         <a class="c-button  c-button--small    "  href="activiteiten.php"   >
-            <span class="c-button__text">Boek eerst je activiteit</span>
+            <span class="c-button__text">Book your activity first</span>
         </a>    </div>
 </div>
 
@@ -258,7 +265,8 @@
     <div class="o-component-area__component l-contain ">
 
     <div class="s-text   ">
-        <p>Zak je met je kudde af naar onze FarmFun-boerderij? Dan staan twee dingen als een paal boven water: je amuseert je kostelijk met knotsgekke activiteiten in de gezonde buitenlucht &eacute;n je krijgt gegarandeerd af te rekenen met een knorrende maag. Dan zien onze melkkoeien en andere dieren er voor jou en je koe-llega's plots heel aantrekkelijk uit. Maar die zijn off limits! Wel schotelen we jou de heerlijke maaltijden van onze eigen chefkok. Let wel: vooraf reserveren is nodig. Zo weten we hoeveel overheerlijk food we mogen laten aanrukken. <strong>Je kan jouw favoriete FarmFood bestellen nadat je een activiteit hebt gekozen.&nbsp;</strong></p>
+        <p>Are you coming to our Fun Farming farm with your herd? Then two things are clear: you will have fun with crazy activities in the healthy outdoors and you are guaranteed to deal with a growling stomach. Then our dairy cows and other animals suddenly look very attractive to you and your cow colleagues. But they are off limits! We do serve you delicious meals from our own chef. Please note: advance reservations are required. This way we know how much delicious food we can order.<strong>
+You can order your favorite FarmFood after you have chosen an activity.&nbsp;</strong></p>
     </div>
 
     </div>
